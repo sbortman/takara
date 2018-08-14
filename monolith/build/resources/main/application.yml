@@ -1,9 +1,0 @@
-micronaut:
-    application:
-        name: monolith
-    server:
-        port: 9999
-                
-#Uncomment to set server port
-#    server:
-#        port: 8080
