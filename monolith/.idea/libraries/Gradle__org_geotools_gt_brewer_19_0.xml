@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-brewer:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-brewer/19.0/16d442e3809568f6294ac424febc63bc113e9f59/gt-brewer-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-brewer/19.0/3cb4afeff3d8560f17bfb5040040cfd15a477a57/gt-brewer-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

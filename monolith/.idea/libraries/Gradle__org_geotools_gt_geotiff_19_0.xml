@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-geotiff:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-geotiff/19.0/b491e47ad280dbd8bd495d560250d77888b10b9d/gt-geotiff-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-geotiff/19.0/a5e863c80eb58534a5eb68985e534ddf0d01ef01/gt-geotiff-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

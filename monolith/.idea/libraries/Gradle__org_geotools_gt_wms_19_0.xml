@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-wms:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-wms/19.0/10832bad6a420868d14b5be22e56c238835e9e2a/gt-wms-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-wms/19.0/8eb00bbcb41eac12608e9a8cec4c3db54719b487/gt-wms-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

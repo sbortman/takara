@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.janino:janino:2.5.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.janino/janino/2.5.16/7cda0be2ff5374b19700b3e37b53fcdf68df1600/janino-2.5.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.janino/janino/2.5.16/dad9751cd0c9db48156ae863fb0729434ae087c3/janino-2.5.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-epsg-extension:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-epsg-extension/19.0/75a6e738b979f0b9c583bfecc3ec447a2c976ae5/gt-epsg-extension-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-epsg-extension/19.0/b7119b52baefd15dd5eebd57635fb49e9d6f871f/gt-epsg-extension-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

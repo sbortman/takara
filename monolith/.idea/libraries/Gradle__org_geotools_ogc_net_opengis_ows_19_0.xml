@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools.ogc:net.opengis.ows:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools.ogc/net.opengis.ows/19.0/22e52a9343d73f395f42a397037f00cefbafae3f/net.opengis.ows-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools.ogc/net.opengis.ows/19.0/eef7d8698a46414cbdea1768bfb13332c8bfdb9a/net.opengis.ows-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

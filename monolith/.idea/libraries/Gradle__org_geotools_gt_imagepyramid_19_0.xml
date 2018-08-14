@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-imagepyramid:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-imagepyramid/19.0/82441b29a13dd39101775a617c6910c918b96492/gt-imagepyramid-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-imagepyramid/19.0/81c02a089910db52da1bc431f65cc3cb723677a9/gt-imagepyramid-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

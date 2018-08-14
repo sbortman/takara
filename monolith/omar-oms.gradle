@@ -1,0 +1,7 @@
+repositories {
+	maven { url "https://nexus.ossim.io/nexus/content/repositories/ossim-deps" }
+}
+
+dependencies {
+	compile "org.ossim:joms:${ System.getenv( 'OSSIM_VERSION' ) }-${ System.getenv( 'OSSIM_VERSION_TAG' ) }"
+}

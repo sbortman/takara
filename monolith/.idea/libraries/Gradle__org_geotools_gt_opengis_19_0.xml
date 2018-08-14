@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-opengis:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-opengis/19.0/48e58e3eea9237bdda5287aa85ff97d8bbddff47/gt-opengis-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-opengis/19.0/86c48afa5cd0a78924bfa8f013a5b5edf9b69a06/gt-opengis-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

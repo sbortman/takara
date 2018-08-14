@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wdtinc:mapbox-vector-tile:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wdtinc/mapbox-vector-tile/2.0.0/78dd2fc3ce2e10b371dc679401f09be2dcb199ba/mapbox-vector-tile-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wdtinc/mapbox-vector-tile/2.0.0/e054a9ae4f84ac9f9b771bc0896ec8212dfb48e2/mapbox-vector-tile-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

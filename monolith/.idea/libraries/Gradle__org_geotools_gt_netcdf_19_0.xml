@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-netcdf:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-netcdf/19.0/1d7e3bc2a09d46b929b57ffae21b5374ed6128e9/gt-netcdf-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-netcdf/19.0/f3c68e078080bc8c232e9922663cc53381d02d23/gt-netcdf-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

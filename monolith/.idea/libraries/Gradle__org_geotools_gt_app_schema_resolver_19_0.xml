@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-app-schema-resolver:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-app-schema-resolver/19.0/f5f0bec913c0e46cad2cd63dd520d72ce99ff2/gt-app-schema-resolver-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-app-schema-resolver/19.0/9a0871e56f5bea559bddfaee69dceaebd4fb4f68/gt-app-schema-resolver-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

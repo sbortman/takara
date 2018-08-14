@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: monolith
+---
+testFramework: spock
+sourceLanguage: groovy

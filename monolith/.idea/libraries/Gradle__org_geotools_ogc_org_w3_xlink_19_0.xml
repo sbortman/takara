@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools.ogc:org.w3.xlink:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools.ogc/org.w3.xlink/19.0/58d878befda810182ef4b27198d0c20576d23a46/org.w3.xlink-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools.ogc/org.w3.xlink/19.0/9709ed489098e802c536602be0fca252844dc1c8/org.w3.xlink-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

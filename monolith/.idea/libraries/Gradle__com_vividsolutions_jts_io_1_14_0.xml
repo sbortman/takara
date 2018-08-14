@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vividsolutions:jts-io:1.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vividsolutions/jts-io/1.14.0/f02af5839587688140361d721e59ac35178b3e94/jts-io-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vividsolutions/jts-io/1.14.0/e900dc0108d429746fb95f5d26fb025a24917e48/jts-io-1.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

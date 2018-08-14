@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools.xsd:gt-xsd-fes:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools.xsd/gt-xsd-fes/19.0/b14831e2ffbe0b81adea7ef8a8ce7aa189f65acf/gt-xsd-fes-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools.xsd/gt-xsd-fes/19.0/faf2fe4df19e0c017596889df0ce818bd174e403/gt-xsd-fes-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

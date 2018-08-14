@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jaitools:jt-vectorize:1.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jaitools/jt-vectorize/1.4.0/cb36435cf9f4f2bb626b9fd138404d5f4612a0ed/jt-vectorize-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jaitools/jt-vectorize/1.4.0/2adb9b0b514de4fbd64a7fd90c8f4b6fdfbc5cde/jt-vectorize-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

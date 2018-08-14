@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-process-feature:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-process-feature/19.0/1e22719e4566b0b266ceefb1760c6794cacde64a/gt-process-feature-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-process-feature/19.0/def877fc0a32ccaf622c0c1010a37552dc8c1c43/gt-process-feature-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

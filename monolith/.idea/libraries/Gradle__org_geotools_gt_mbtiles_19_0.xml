@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-mbtiles:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-mbtiles/19.0/11eacff6a82f1dbccfecfb3cab8b55a0acdc9d48/gt-mbtiles-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-mbtiles/19.0/7832532da4a5c656cba71b23d4c49f3dd20c4ffa/gt-mbtiles-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

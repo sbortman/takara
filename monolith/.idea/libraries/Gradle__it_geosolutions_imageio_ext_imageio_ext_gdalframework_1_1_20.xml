@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: it.geosolutions.imageio-ext:imageio-ext-gdalframework:1.1.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.geosolutions.imageio-ext/imageio-ext-gdalframework/1.1.20/e1e7467446763beef65a2142f0f98c6eace2f3f4/imageio-ext-gdalframework-1.1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.geosolutions.imageio-ext/imageio-ext-gdalframework/1.1.20/ac2c400090e4c59a408c74dd80c015314c7a92c5/imageio-ext-gdalframework-1.1.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

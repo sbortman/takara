@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-grid:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-grid/19.0/5b1ffd7dcf5b670fcce6a0081134a78cf404b9ce/gt-grid-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-grid/19.0/3bb82ce9fcdd9ddbfd8a8130329e59ef29564568/gt-grid-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

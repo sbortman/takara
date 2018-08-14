@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-complex:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-complex/19.0/703f8b327e55f1a493c54776256ff3771f7a005d/gt-complex-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-complex/19.0/e56baf42c0bd63bff9913bc90c8a5de4dbb65718/gt-complex-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

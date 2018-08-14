@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.gdal:gdal:1.11.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gdal/gdal/1.11.2/b8cf4a677d1bf60e5bd34eaacb44ce2d9324bd9a/gdal-1.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gdal/gdal/1.11.2/7a62f2a565febc1279099da34ce99174d008cd99/gdal-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

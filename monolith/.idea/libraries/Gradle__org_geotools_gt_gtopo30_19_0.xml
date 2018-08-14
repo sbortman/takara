@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-gtopo30:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-gtopo30/19.0/74bcaea4f942c12653b40e95a553c9af33472b94/gt-gtopo30-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-gtopo30/19.0/f6940b1307d9d7128a5aeb0d4b1cdf80a29c32d6/gt-gtopo30-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
