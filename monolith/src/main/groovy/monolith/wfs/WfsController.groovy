@@ -1,5 +1,7 @@
 package monolith.wfs
 
+import io.micronaut.http.HttpParameters
+import io.micronaut.http.HttpRequest
 import io.micronaut.http.MediaType
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
@@ -17,9 +19,29 @@ class WfsController
 	WebFeatureService webFeatureService
 	
 	@Get( "/" )
-	HttpStatus index()
+	HttpResponse index( HttpRequest request )
 	{
-		return HttpStatus.OK
+		HttpParameters params = request.parameters
+		
+		println params
+		
+		def wfsRequest = params.find { it.key.toUpperCase() == 'REQUEST' }?.value?.first()?.toUpperCase()
+		HttpResponse results
+		
+		println wfsRequest
+		
+		switch ( wfsRequest )
+		{
+		case 'GETCAPABILITIES':
+			results = HttpResponse.ok( webFeatureService.getCapabilities() ).contentType( MediaType.TEXT_XML_TYPE )
+			break
+		case 'DESCRIBEFEATURETYPE':
+			results = HttpResponse.ok( webFeatureService.describeFeatureType() ).contentType( MediaType.TEXT_XML_TYPE )
+			break
+		default:
+			results = HttpStatus.OK
+		}
+		return results
 	}
 	
 	@Get( "/getCapabilities" )
